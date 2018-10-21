@@ -228,9 +228,9 @@ public class BorderData
 				else if (xLoc >= maxX)
 					xLoc = minX + Config.KnockBack();
 				if (zLoc <= minZ)
-					zLoc = maxZ - Config.KnockBack();
-				else if (zLoc >= maxZ)
 					zLoc = minZ + Config.KnockBack();
+				else if (zLoc >= maxZ)
+					zLoc = maxZ - Config.KnockBack();
 			}
 			else
 			{
