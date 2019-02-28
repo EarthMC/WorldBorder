@@ -1,4 +1,4 @@
-WorldBorder-RoundEarthConspiracy
+WorldBorder
 ===========
 
 This fork is identical to the original WorldBorder except for the wrap teleporting, making the plugin not teleport players between north and south.
